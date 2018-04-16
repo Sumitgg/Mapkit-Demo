@@ -1,12 +1,6 @@
-//
-//  ViewController.swift
-//  Mapkit Demo
-//
-//  Created by Sumit Ganju on 2018-04-16.
-//  Copyright © 2018 Centennial College. All rights reserved.
-//
 
 import UIKit
+import MapKit
 
 class ViewController: UIViewController {
 
